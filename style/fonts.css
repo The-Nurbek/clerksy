@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'noto-r';
+    src: url('../fonts/NotoSans-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'recol';
+    src: url('../fonts/Recoleta-SemiBold.ttf');
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'noto-s';
+    src: url('../fonts/NotoSans-SemiBold.ttf');
+    font-style: normal;
+    font-weight: 600;
+}

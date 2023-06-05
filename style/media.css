@@ -1,0 +1,272 @@
+@media (max-width: 1200px) {
+  .cast__img {
+    width: 100%;
+    
+  }
+}
+@media (max-width: 992px) {
+  .about_inner {
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .about_inner_1 {
+    justify-content: unset;
+    gap: unset;
+    align-items: center;
+    flex-direction: column-reverse;
+    padding-top: 20px;
+  }
+  .about_inner_2 {
+    justify-content: unset;
+    align-items: center;
+    flex-direction: column;
+  }
+  .icons {
+    gap: 38px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+  }
+  .casting {
+    text-align: center;
+  }
+  .process_cards {
+    padding-top: 60px;
+  }
+  .just {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    flex-direction: column;
+  }
+  .get {
+    height: unset;
+  }
+  .book_btn {
+    margin-bottom: 20px;
+  }
+  .scenes {
+    gap: 35px;
+    flex-direction: column;
+    padding-top: 20px;
+  }
+  .training {
+    width: unset;
+    text-align: center;
+  }
+  .fit {
+    text-align: center;
+  }
+  .consider {
+    padding-top: 20px;
+  }
+  .another {
+    padding-right: unset;
+  }
+  .header_content_btk {
+    margin-bottom: 20px;
+  }
+  .heading {
+    padding-top: 20px;
+  }
+  .new {
+    flex-direction: column;
+    padding-top: 20px;
+  }
+  .about__inner_right {
+    padding-top: 50px;
+  }
+  .about_inner_1 {
+    gap: 20px;
+  }
+  .footer_li {
+    flex-direction: column-reverse;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .btn_div {
+    padding-top: 40px;
+  }
+  .image > img,
+  .casting > img {
+    width: 100%;
+  }
+  .icons {
+    gap: 6px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+  }
+  .shapes {
+    padding-top: 50px;
+    font-size: 30px;
+  }
+  .casting {
+    padding-bottom: 35px;
+  }
+  .txt_1 {
+    font-size: 35px;
+  }
+  .txt_3,
+  .best,
+  .production,
+  .fit,
+  .interest,
+  .easy_h,
+  .not_h2,
+  .heading,
+  .date_h {
+    font-size: 30px;
+  }
+  .benefits {
+    flex-wrap: wrap;
+  }
+  .card_text {
+    font-size: 20px;
+  }
+  .sect_3_txt {
+    font-size: 15px;
+  }
+  .easy_h {
+    padding-top: 35px;
+  }
+  .time {
+    font-size: 25px;
+  }
+  .easy_cards {
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .peak {
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .btn_div {
+    padding-bottom: 35px;
+    padding-top: 40px;
+  }
+  .form_p {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .process_cards {
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: unset;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .card_h {
+    text-align: center;
+  }
+  .line{
+            transform: rotate(90deg);
+        } 
+  .easy_cards {
+    gap: 30px;
+  }
+  .cards_p {
+    max-width: unset;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+  }
+  .sect_3_txt{
+    width: unset;
+  }
+  .benefits{
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 480px
+  }
+  .txt_3{
+    font-size: 30px;
+    text-align: center;
+  }
+}
+@media (max-width: 576px) {
+    .sign{
+        width: unset;
+    }
+    .form input{
+        width: unset;
+    }
+    .just > img,
+    .scenes > img,
+    .about_inner_1 > img{
+        width: 100%;
+    }
+    .about_inner_2 > img{
+        width: 100%;
+    }
+    .icons{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav__list{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav_item{
+        flex-direction: column;
+    }
+    .benefits{
+        justify-content: center;
+        gap: 20px;
+    }
+    .trademark{
+        text-align: center;
+    }
+    .date_h{
+        text-align: center;
+    }
+    .clerksy{
+        flex-direction: column;
+        align-items: center;
+        gap: 20px
+    }
+    .txt_3,
+    .txt_4{
+        width: unset;
+    }
+    .txt_1{
+        font-size: 30PX;
+    }
+    .txt_2,
+    .txt_4,
+    .training,
+    .hr_for{
+        font-size: 15px;
+        text-align: center;
+    }
+    .txt_3,
+  .best,
+  .production,
+  .fit,
+  .interest,
+  .easy_h,
+  .not_h2,
+  .heading,
+  .date_h,
+  .shapes{
+        font-size: 25px
+    }
+    
+}
+@media (max-width: 375px) {
+    .not_h2{
+        width: unset;
+    }
+    .form input{
+        padding: unset;
+    }
+   
+}
+@media (max-width: 320px) {
+}
